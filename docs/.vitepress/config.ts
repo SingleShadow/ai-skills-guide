@@ -1,6 +1,7 @@
-import { defineConfig } from 'vitepress'
+﻿import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/ai-skills-guide/',
   title: 'Codex Skills 大全',
   description: '已验证的 Codex Skills 资源目录 - 按行业分类，含安装方式与使用示例',
   lang: 'zh-CN',
