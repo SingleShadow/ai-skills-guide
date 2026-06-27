@@ -65,10 +65,19 @@ export default defineConfig({
             { text: '总览', link: '/community/' },
             { text: 'Anthropic 官方 Skills', link: '/community/anthropic-skills' },
             { text: 'Firecrawl & Browser Use', link: '/community/firecrawl-browser-use' },
+            { text: 'last30days 舆情调研', link: '/community/last30days' },
             { text: 'Vercel 官方 Skills', link: '/community/vercel-skills' },
             { text: 'Skill 资源合集', link: '/community/awesome-lists' },
             { text: 'Karpathy 系 Skills', link: '/community/karpathy-skills' },
             { text: '热门仓库', link: '/community/repos' },
+          ]
+        }
+      ],
+      '/community/last30days': [
+        {
+          text: 'last30days AI 舆情调研',
+          items: [
+            { text: 'last30days Skill', link: '/community/last30days' },
           ]
         }
       ],

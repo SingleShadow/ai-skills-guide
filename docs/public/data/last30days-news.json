@@ -1,0 +1,67 @@
+{
+  "updatedAt": "2026-06-27",
+  "generatedBy": "last30days-style news snapshot",
+  "query": "AI agents, coding tools, model releases, and AI governance over the last 30 days",
+  "items": [
+    {
+      "id": "openai-gpt-56-preview",
+      "title": "OpenAI 发布 GPT-5.6 预览，但访问采用分阶段审批",
+      "source": "The Verge",
+      "date": "2026-06-27",
+      "category": "模型发布",
+      "summary": "OpenAI 宣布 GPT-5.6 模型套件进入预览阶段，包含不同能力和成本定位的版本；在监管关注下，早期访问会按客户逐步开放。",
+      "signal": "前沿模型发布节奏正在从一次性公开转向受控预览，企业采用和安全评估会更紧密绑定。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview"
+    },
+    {
+      "id": "codex-agent-growth",
+      "title": "报告称 AI agents 正在进入更复杂的委托任务",
+      "source": "Axios",
+      "date": "2026-06-26",
+      "category": "Agent 趋势",
+      "summary": "一份关于 Codex 使用的研究显示，AI agents 的使用开始从简单聊天和搜索转向更复杂的工作委托，非开发者采用也在增长。",
+      "signal": "agentic AI 的使用边界正在外扩，产品设计需要支持更长任务、更强状态管理和可审计结果。",
+      "url": "https://www.axios.com/2026/06/25/codex-agents-growth-openai"
+    },
+    {
+      "id": "codex-agentic-ai-paper",
+      "title": "研究用 Codex 数据分析 agentic AI 如何改变工作方式",
+      "source": "arXiv",
+      "date": "2026-06-25",
+      "category": "研究",
+      "summary": "OpenAI、Columbia、Duke 和宾夕法尼亚大学相关作者分析 Codex 使用数据，指出 2026 年上半年 agentic AI 活跃用户增长显著。",
+      "signal": "技能、并行 agent 和长任务正在成为 agent 工作流的重要特征，说明 Skills 目录的使用场景会继续扩大。",
+      "url": "https://arxiv.org/abs/2606.26959"
+    },
+    {
+      "id": "github-ai-coding-demand",
+      "title": "AI 编码热潮推动 GitHub 创下强劲使用月份",
+      "source": "Business Insider",
+      "date": "2026-06-25",
+      "category": "开发工具",
+      "summary": "报道指出，AI 编码工具需求推动 GitHub 使用增长，Copilot 计费变化以及 Codex、Claude Code、Cursor 等竞争加速了市场活跃度。",
+      "signal": "AI 编码工具已经从单点助手变成平台竞争，开发者生态会继续围绕 agent 工作流重组。",
+      "url": "https://www.businessinsider.com/github-best-month-ever-internal-meeting-2026-6"
+    },
+    {
+      "id": "open-source-agent-workflows",
+      "title": "开源 AI agents 被用于自动化小型业务工作流",
+      "source": "TechRadar",
+      "date": "2026-06-23",
+      "category": "应用案例",
+      "summary": "TechRadar 介绍了使用开源 AI agents 自动化支持分流、内容起草和发票处理等业务流程的做法，并强调应从小范围权限开始。",
+      "signal": "agent 应用正在从开发工具进入运营流程，权限分层和任务边界会成为落地关键。",
+      "url": "https://www.techradar.com/pro/how-to-automate-workflows-using-open-source-ai-agents"
+    },
+    {
+      "id": "coding-agent-open-source-census",
+      "title": "研究扫描 1.8 亿仓库追踪 AI 编码 agent 的开源足迹",
+      "source": "arXiv",
+      "date": "2026-06-23",
+      "category": "研究",
+      "summary": "论文提出多方法检测框架，用配置文件、提交信息、作者身份和 bot 信号识别开源仓库中的 AI 编码 agent 活动。",
+      "signal": "只看公开 PR 会低估 agent 采用率，真实使用更分散，也更难用单一指标衡量。",
+      "url": "https://arxiv.org/abs/2606.24429"
+    }
+  ]
+}

@@ -45,4 +45,13 @@ features:
   - title: 一键安装
     details: 提供 install-all 脚本，一条命令批量安装所有 Skills 到 Codex 环境
     link: /install
+  - title: last30days AI 舆情调研
+    details: 130k+ Stars，从 Reddit、X、YouTube 等 10+ 平台抓取过去 30 天的真实讨论和趋势
+    link: /community/last30days
 ---
+
+<script setup>
+import Last30DaysNews from './.vitepress/theme/components/Last30DaysNews.vue'
+</script>
+
+<Last30DaysNews />
